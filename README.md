@@ -1,2 +1,4 @@
 # IT-Portfolio-Bradley-Brown
-IT portfolio
+This is where all essential information about the code is stored.
+
+KNN or K-nearest neighbor 
