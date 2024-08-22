@@ -3,6 +3,7 @@ This is where all essential information about the code is stored.
 
 KNN
 
+
 What is it?
 
 KNN or K-nearest neighbor is a simple machine learning algorithm used for classification and regression. "K" represents the number of neighbors
@@ -19,6 +20,7 @@ The model imports libraries, prepares data/labels, makes predictions regarding t
 
 
 Linear Regression
+
 
 What is it?
 
