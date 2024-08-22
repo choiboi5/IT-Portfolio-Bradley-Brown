@@ -19,7 +19,7 @@ What does it do to work?
 The model imports libraries, prepares data/labels, makes predictions regarding the data and then prints the data.
 
 
-Linear Regression
+LINEAR REGRESSION
 
 
 What is it?
